@@ -319,7 +319,7 @@ const certifications = {
       subtitle: "- Tata Consultancy Services",
       logo_path: "TCS.png",
       certificate_link:
-        "https://www.linkedin.com/in/yaswanth-varada/details/certifications/",
+        "",
       alt_name: "Hero Vired",
       color_code: "#000000",
     },
@@ -328,7 +328,7 @@ const certifications = {
       subtitle: "- HackerRank",
       logo_path: "hackerank.png",
       certificate_link:
-        "https://www.linkedin.com/in/yaswanth-varada/details/certifications/",
+        "",
       alt_name: "Harika Infotech",
       color_code: "#fff",
     },
@@ -337,7 +337,7 @@ const certifications = {
       subtitle: "- Cisco Networking Academy",
       logo_path: "cisco.png",
       certificate_link:
-        "https://www.linkedin.com/in/yaswanth-varada/details/certifications/",
+        "",
       alt_name: "Cisco Networking Academy",
       color_code: "#fff",
     },

@@ -535,7 +535,7 @@ const contactPageData = {
     streetAddress: "3rd street",
     avatar_image_path: "address_image.svg",
     location_map_link:
-      "https://www.google.com/maps/place/Kaikaluru,+Andhra+Pradesh+521333/@16.5497787,81.1896145,14z/data=!3m1!4b1!4m6!3m5!1s0x3a363cda7c100547:0x65c8e6ac842c1b7!8m2!3d16.5527275!4d81.2129374!16s%2Fm%2F027x5hf?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "https://www.google.com/maps/place/19-25-6,+Vanapalli+St,+Gandhi+Nagar,+Bank+Colony,+Bhimavaram,+Andhra+Pradesh+534202/@16.5357356,81.5275641,17.22z/data=!4m15!1m8!3m7!1s0x3a37d2a6a86d3e4b:0x4eed21243d2dcfed!2sBhimavaram,+Andhra+Pradesh!3b1!8m2!3d16.544893!4d81.521241!16zL20vMDdfdDU2!3m5!1s0x3a37d2ba1182e15b:0x81d2ae2c5b75fc51!8m2!3d16.5345261!4d81.5275748!16s%2Fg%2F11q2t1hr2g?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D",
   },
   phoneSection: {
     title: "Phone Number",

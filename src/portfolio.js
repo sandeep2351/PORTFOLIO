@@ -23,7 +23,7 @@ const greeting = {
     "Driven by a passion for innovation, I focus on building scalable systems and advancing my knowledge in AI and prompt engineering. With strong problem-solving skills, I thrive on addressing complex challenges and delivering effective solutions.",
   resumeLink:
     "https://drive.google.com/file/d/1ouoIeG19pjvvqti6qAviIl5Sz_zu9_4V/view?usp=sharing",
-  // portfolio_repository: "https://wa.link/fzhxxy",
+  portfolio_repository: "https://wa.link/fzhxxy",
   githubProfile: "https://github.com/sandeep2351",
 };
 

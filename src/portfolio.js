@@ -317,7 +317,7 @@ const certifications = {
     {
       title: "Full Stack Web Development",
       subtitle: "- Bharat Intern",
-      logo_path: "bharat_intern.png",
+      logo_path: "bharath-intern.png",
       certificate_link: "",
       alt_name: "Bharat Intern",
       color_code: "#F7DF1E",
@@ -325,7 +325,7 @@ const certifications = {
     {
       title: "Web Development",
       subtitle: "- Codeways",
-      logo_path: "codeways.png",
+      logo_path: "codeways.jpeg",
       certificate_link: "",
       alt_name: "Codeways",
       color_code: "#E44D26",
@@ -349,7 +349,7 @@ const certifications = {
     {
       title: "Certified System Administrator (CSA)",
       subtitle: "- ServiceNow",
-      logo_path: "servicenow.png",
+      logo_path: "servicenow.jpg",
       certificate_link: "",
       alt_name: "ServiceNow CSA",
       color_code: "#13AA52",

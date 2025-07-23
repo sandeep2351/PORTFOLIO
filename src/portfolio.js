@@ -378,7 +378,18 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Bachleor of Technology in Information Technology Student",
+          title: "Full Stack AI Engineer",
+          company: "SproutsAI (Startup)",
+          company_url: "https://sproutsai.com/", // Replace with correct URL if different
+          logo_path: "sproutsai_logo.png", // Add this logo file in your assets
+          duration: "April 2024 - Present",
+          location: "Remote",
+          description:
+            "Working as a Full Stack AI Engineer at SproutsAI, contributing to the development of an AI-powered platform. Responsible for building scalable web applications using Next.js, Node.js, and PostgreSQL, and integrating intelligent systems to enhance automation and user experience.",
+          color: "#00C897",
+        },
+        {
+          title: "Bachelor of Technology in Information Technology Student",
           company: "Vishnu Institute of Technology",
           company_url: "https://vishnu.edu.in/",
           logo_path: "iiitk_logo.png",
@@ -393,17 +404,6 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
-        // {
-        //   title: "WebDev Co-Lead",
-        //   company: "Google Developer Groups, Vishnu Institute of Technology",
-        //   company_url: "https://vishnu.edu.in/",
-        //   logo_path: "gdg_logo.png",
-        //   duration: "October 2024 - Present",
-        //   location: "Bhimavaram, Andhra Pradesh",
-        //   description:
-        //     "Contributed as WebDev Co-Lead at Google Developers Group, spearheading web development initiatives and leading workshops to promote cutting-edge web technologies and collaborative learning within the community",
-        //   color: "#4285F4",
-        // },
         {
           title: "WebDev Lead & Designer",
           company: "DOIT Club, Vishnu Institute of Technology",
@@ -417,7 +417,7 @@ const experience = {
         },
         {
           title: "Developer Program Member",
-          company: "Github",
+          company: "GitHub",
           company_url: "https://github.com/",
           logo_path: "github_logo.png",
           duration: "June 2023 - Present",
@@ -426,21 +426,11 @@ const experience = {
             "Contributing to open-source projects, collaborating with global developers, and building impactful software solutions while continuously expanding programming expertise.",
           color: "#181717",
         },
-        // {
-        //   title: "NCC A Certificate Holder",
-        //   company: "Indian National Cadet Corps",
-        //   company_url: "https://indiancc.nic.in/",
-        //   logo_path: "ncc_logo.png",
-        //   duration: "2018 - 2020",
-        //   location: "Kaikaluru, Andhra Pradesh",
-        //   description:
-        //     "Exhibited leadership, discipline, and dedication to national service as an NCC A Certificate holder, fostering teamwork and personal growth through rigorous training and activities.",
-        //   color: "#181717",
-        // },
       ],
     },
   ],
 };
+
 
 // Projects Page
 const projectsHeader = {

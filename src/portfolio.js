@@ -381,7 +381,7 @@ const experience = {
           title: "Full Stack AI Engineer",
           company: "SproutsAI (Startup)",
           company_url: "https://sproutsai.com/", // Replace with correct URL if different
-          logo_path: "iiitk_logo.png", // Add this logo file in your assets
+          logo_path: "sproutsailogo.svg", // Add this logo file in your assets
           duration: "June 2025 - Present",
           location: "Remote",
           description:

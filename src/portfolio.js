@@ -357,7 +357,7 @@ const certifications = {
     {
       title: "Certified Application Developer (CAD)",
       subtitle: "- ServiceNow",
-      logo_path: "servicenow.png",
+      logo_path: "servicenow.jpg",
       certificate_link: "",
       alt_name: "ServiceNow CAD",
       color_code: "#13AA52",

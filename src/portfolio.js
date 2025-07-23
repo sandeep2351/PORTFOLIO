@@ -315,114 +315,54 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "TCS ION Career-Edge Young professionals Program",
-      subtitle: "- Tata Consultancy Services",
-      logo_path: "TCS.png",
-      certificate_link:
-        "",
-      alt_name: "Hero Vired",
-      color_code: "#000000",
+      title: "Full Stack Web Development",
+      subtitle: "- Bharat Intern",
+      logo_path: "bharat_intern.png",
+      certificate_link: "",
+      alt_name: "Bharat Intern",
+      color_code: "#F7DF1E",
+    },
+    {
+      title: "Web Development",
+      subtitle: "- Codeways",
+      logo_path: "codeways.png",
+      certificate_link: "",
+      alt_name: "Codeways",
+      color_code: "#E44D26",
     },
     {
       title: "SQL Certification",
-      subtitle: "- HackerRank",
-      logo_path: "hackerank.png",
-      certificate_link:
-        "",
-      alt_name: "Harika Infotech",
-      color_code: "#fff",
+      subtitle: "- Coursera",
+      logo_path: "coursera.png",
+      certificate_link: "",
+      alt_name: "Coursera",
+      color_code: "#2A73CC",
     },
     {
-      title: "IT Essentials",
-      subtitle: "- Cisco Networking Academy",
-      logo_path: "cisco.png",
-      certificate_link:
-        "",
-      alt_name: "Cisco Networking Academy",
-      color_code: "#fff",
+      title: "JavaScript Certification",
+      subtitle: "- Scaler",
+      logo_path: "scaler.png",
+      certificate_link: "",
+      alt_name: "Scaler",
+      color_code: "#000000",
     },
-    // {
-    //   title: "Data Science",
-    //   subtitle: "- Alex Aklson",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Big Data",
-    //   subtitle: "- Kim Akers",
-    //   logo_path: "microsoft_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-    //   alt_name: "Microsoft",
-    //   color_code: "#D83B0199",
-    // },
-    // {
-    //   title: "Advanced Data Science",
-    //   subtitle: "- Romeo Kienzler",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Advanced ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
-    // {
-    //   title: "DL on Tensorflow",
-    //   subtitle: "- Laurence Moroney",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
-    // {
-    //   title: "Fullstack Development",
-    //   subtitle: "- Jogesh Muppala",
-    //   logo_path: "coursera_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-    //   alt_name: "Coursera",
-    //   color_code: "#2A73CC",
-    // },
-    // {
-    //   title: "Kuberenetes on GCP",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
-    // {
-    //   title: "Cryptography",
-    //   subtitle: "- Saurabh Mukhopadhyay",
-    //   logo_path: "nptel_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-    //   alt_name: "NPTEL",
-    //   color_code: "#FFBB0099",
-    // },
-    // {
-    //   title: "Cloud Architecture",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
-  ],
+    {
+      title: "Certified System Administrator (CSA)",
+      subtitle: "- ServiceNow",
+      logo_path: "servicenow.png",
+      certificate_link: "",
+      alt_name: "ServiceNow CSA",
+      color_code: "#13AA52",
+    },
+    {
+      title: "Certified Application Developer (CAD)",
+      subtitle: "- ServiceNow",
+      logo_path: "servicenow.png",
+      certificate_link: "",
+      alt_name: "ServiceNow CAD",
+      color_code: "#13AA52",
+    },
+  ]
 };
 
 // Experience Page

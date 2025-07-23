@@ -382,7 +382,7 @@ const experience = {
           company: "SproutsAI (Startup)",
           company_url: "https://sproutsai.com/", // Replace with correct URL if different
           logo_path: "iiitk_logo.png", // Add this logo file in your assets
-          duration: "April 2024 - Present",
+          duration: "June 2025 - Present",
           location: "Remote",
           description:
             "Working as a Full Stack AI Engineer at SproutsAI, contributing to the development of an AI-powered platform. Responsible for building scalable web applications using Next.js, Node.js, and PostgreSQL, and integrating intelligent systems to enhance automation and user experience.",
